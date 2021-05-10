@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  Xcconfig
+//
+//  Created by 吴哲 on 2021/5/10.
+//
+
+//#include "Pods/Target Support Files/Pods-xxxx.debug.xcconfig"
+#include "Base.xcconfig"
+
+XC_SCHEMA = debug

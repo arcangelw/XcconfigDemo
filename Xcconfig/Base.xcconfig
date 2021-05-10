@@ -1,0 +1,8 @@
+//
+//  Base.xcconfig
+//  Xcconfig
+//
+//  Created by 吴哲 on 2021/5/10.
+//
+
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) XC_SCHEMA='@"$(XC_SCHEMA)"'

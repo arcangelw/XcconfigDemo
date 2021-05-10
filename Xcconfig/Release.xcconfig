@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  Xcconfig
+//
+//  Created by 吴哲 on 2021/5/10.
+//
+
+//#include "Pods/Target Support Files/Pods-xxxx.release.xcconfig"
+#include "Base.xcconfig"
+
+XC_SCHEMA = release
+
